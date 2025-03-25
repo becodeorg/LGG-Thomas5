@@ -1,3 +1,10 @@
+# =======================================================
+# Name: Hamers Robin
+# GitHub: Rhodham96
+# Year: 2025
+# Description: Scrap informations on NYTimes
+# =======================================================
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
